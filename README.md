@@ -33,5 +33,4 @@ The projects focus on transforming raw data into meaningful insights using analy
 To demonstrate my analytical skills and problem-solving approach using Excel for real-world business scenarios.
 
 ## Contact
-- LinkedIn: (add later)
-- Email: (optional)
+- Email: vivekkumar9557mamta@gmail.com
